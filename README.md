@@ -24,7 +24,7 @@
 ### 📫 Let's Connect
 Feel free to check out my projects or reach out if you'd like to collaborate!
 <p align="left">
-  <a href="dennie.sureva@gmail.com">
+  <a href="mailto:dennie.sureva@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="40" />
   </a>
   &nbsp;
