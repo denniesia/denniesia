@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dennie — Aspiring Junior Developer</h1>
 <h5 align="center">I'm a passionate and motivated junior developer pivoting into tech with a focus on backend development. I've been learning and building projects with Python and Django while also strengthening my frontend and database skills. I love turning ideas into real, functional apps and constantly work on improving my code and expanding my skillset.</h5>
 
-
 ---
+
+
+<img src="./Blog post.gif" align="right" width="150"/>
 
 ### 🧠 What I Know
 - Object-Oriented Programming (OOP), SOLID principles
