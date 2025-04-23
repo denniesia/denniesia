@@ -25,11 +25,11 @@
 Feel free to check out my projects or reach out if you'd like to collaborate!
 <p align="left">
   <a href="mailto:dennie.sureva@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="50" />
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="40" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/dennie.s" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50" />
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40" />
   </a>
 </p>
 
