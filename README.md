@@ -23,7 +23,15 @@
 
 ### 📫 Let's Connect
 Feel free to check out my projects or reach out if you'd like to collaborate!
-dennie.sureva@gmail.com
+<p align="left">
+  <a href="mailto:dennie.sureva@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/dennie.s" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50" />
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
