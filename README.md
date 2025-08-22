@@ -12,12 +12,16 @@
 - Django Models, Queries, Admin, Relations, Inheritance
 - PostgreSQL queries, subqueries, joins, transactions
 - Git & GitHub for version control and collaboration
+- RESTful API design & integration (Django REST Framework)
+- Celery & Redis for background tasks and async processing
+- Unit testing & Test-Driven Development (pytest, Django tests)
+- HTML and CSS basics for full-stack integration
 
 ---
 
 ### 🌱 Currently Learning
 - Making apps feel more like native experiences
-- Deploying Django apps and publishing projects on GitHub
+- Deploying Django/REST Api apps and publishing projects on GitHub
 - Deepening my frontend skills for a better full-stack understanding
 
 ---
