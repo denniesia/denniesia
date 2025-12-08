@@ -28,7 +28,7 @@
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,css,html,redis,django,tailwind,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,vscode,css,html,redis,django,tailwind,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,postgres)](https://skillicons.dev)
 
 
