@@ -16,13 +16,16 @@
 - Celery & Redis for background tasks and async processing
 - Unit testing & Test-Driven Development (pytest, Django tests)
 - HTML and CSS basics for full-stack integration
+- DOM manipulation and event handling
 
 ---
 
 ### 🌱 Currently Learning
-- Making apps feel more like native experiences
-- Deploying Django/REST Api apps and publishing projects on GitHub
-- Deepening my frontend skills for a better full-stack understanding
+- Building responsive, interactive frontend experiences that feel closer to native apps
+- Strengthening JavaScript and DOM skills for richer UI behavior
+- Full-stack integration between frontend (HTML/CSS/JS) and Django REST APIs
+- Deploying Django and REST API applications and publishing production-ready projects on GitHub
+- Improving overall full-stack architecture and best practices
 
 ---
 
