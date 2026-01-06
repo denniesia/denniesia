@@ -5,7 +5,7 @@
 ---
 
 
-<img src="./Blog post.gif" align="right" width="150"/>
+<img src="./meme.gif" align="right" width="350"/>
 
 ### 🧠 What I Know
 - Object-Oriented Programming (OOP), SOLID principles
