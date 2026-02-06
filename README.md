@@ -27,6 +27,7 @@
 - Deploying Django and REST API applications and publishing production-ready projects on GitHub
 - Improving overall full-stack architecture and best practices
 - ReactJS & ReactNative
+- DevOps concepts like CI & CD
 ---
 
 
