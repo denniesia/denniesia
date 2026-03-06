@@ -24,7 +24,6 @@
 - Building responsive, interactive frontend experiences that feel closer to native apps
 - Strengthening JavaScript and DOM skills for richer UI behavior
 - Full-stack integration between frontend (HTML/CSS/JS) and REST APIs
-- Deploying Django and REST API applications and publishing production-ready projects on GitHub
 - Improving overall full-stack architecture and best practices
 - ReactJS & ReactNative
 - DevOps concepts like CI & CD
