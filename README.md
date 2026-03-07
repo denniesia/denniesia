@@ -27,6 +27,7 @@
 - Improving overall full-stack architecture and best practices
 - ReactJS & ReactNative
 - DevOps concepts like CI & CD
+- Containers & Cloud
 ---
 
 
