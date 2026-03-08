@@ -28,6 +28,7 @@
 - ReactJS & ReactNative
 - DevOps concepts like CI & CD
 - Containers & Cloud
+- Improving overall mobile architecture and design
 ---
 
 
